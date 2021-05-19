@@ -1,6 +1,5 @@
 # CadastroDeProdutos
-
-Projeto de Cadastro de produtos utilizando java com Banco de dados MySQL!
+Projeto de Cadastro de produtos utilizando java com Banco de dados MySQL!!
 
 É um projeto academico, feito para praticar o uso do java com banco de dados.
 Ele foi divido em 4 pacotes: connection, model.bean, model.dao e view.
